@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Luke Forster>`
-- **CCID:** `<ljforste>`
+- **Full Name:** `Luke Forster`
+- **CCID:** `ljforste`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Stack Overflow
 
 ## Verbal Collaboration
 
